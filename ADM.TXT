@@ -1,0 +1,23 @@
+﻿TEST
+
+ssh-keygen -t rsa -b 4096
+
+cat ~/.ssh/id_rsa.pub
+
+sudo nano /etc/ssh/sshd_config
+
+apt update && apt upgrade && git clone https://github.com/hidex2368/hidexcursolinux.git && cd hidexcursolinux && bash instala.sh
+
+usuario
+443
+12345678
+
+no olvides suscribirte y compartir el vídeo 
+
+gracias por su apoyo 
+
+DEVOLS TENOCH 💪😎👊
+
+
+
+
